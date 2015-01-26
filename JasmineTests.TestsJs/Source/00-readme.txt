@@ -1,0 +1,1 @@
+﻿This folder is needed just for the TestRunner. ReSharper tests don't need it
